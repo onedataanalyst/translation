@@ -167,8 +167,8 @@
     "FLASHCARDS": {
       "DAILY_TARGET": {
         "MAXIMUM_DAILY_TARGET": {
-          "TITLE": "Mục tiêu hàng ngày tối đa",
-          "DESCRIPTION": "Giới hạn số lượng thẻ ghi chú RemNote sẽ yêu cầu bạn luyện tập để đạt được mục tiêu hàng ngày ở giá trị này."
+          "DESCRIPTION": "Giới hạn số lượng thẻ ghi chú RemNote sẽ yêu cầu bạn luyện tập để đạt được mục tiêu hàng ngày ở giá trị này.",
+          "TITLE": "Mục tiêu hàng ngày tối đa"
         },
         "TODAYS_TARGET": "Mục tiêu hôm nay:",
         "TODAYS_TARGET_EXPLANATION": "RemNote cố gắng đặt mục tiêu hàng ngày của bạn để nếu bạn đạt được mục tiêu hàng ngày, bạn sẽ hoàn thành tất cả các thẻ cần xem xét trong 7 ngày tiếp theo. Tuy nhiên, mục tiêu hàng ngày sẽ không bao giờ vượt quá mức tối đa đã đặt ra ở trên."
